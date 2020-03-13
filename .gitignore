@@ -3,3 +3,5 @@ venv/*
 *.xlsx
 *.json
 .idea/*
+*.jpg
+*.png
